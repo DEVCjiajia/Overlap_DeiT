@@ -1,6 +1,6 @@
 *.pdparams
 *.txt
 __pycache__/
-
+try/
 !try/Dataset.py
 !try/edge.py
