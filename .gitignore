@@ -1,0 +1,4 @@
+*.pdparams
+*.txt
+__pycache__/
+
